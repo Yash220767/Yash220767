@@ -8,7 +8,6 @@ I am a researcher and academic professional focused on **Computational Biology**
 
 ## 🔍 About Me
 - 🎓 **Research:** Working on QSAR modeling and molecular oncology (EGFR Tyrosine Kinase Inhibitors).
-- 🧪 **Interests:** Drug efficacy across different demographics and pharmaceutical research.
 - 🛠️ **Current Projects:** Building ML pipeline for chemical dataset cleaning and descriptor analysis.
 
 ---
@@ -31,6 +30,10 @@ I am a researcher and academic professional focused on **Computational Biology**
 ### 🗒️ Documentation & Lab Management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Benchling](https://img.shields.io/badge/Benchling-131313?style=for-the-badge&logo=benchling&logoColor=white)
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sawant-4b0b30266/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawantyash22@gmail.com)
 
 ---
 ---
