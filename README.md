@@ -38,4 +38,3 @@ I am a researcher and academic professional focused on **Computational Biology**
 
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash220767&show_icons=true&theme=dark)
-![Views](https://komarev.com/ghpvc/?username=Yash220767&color=green&style=flat-square&label=PROFILE+VIEWS)
