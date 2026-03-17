@@ -2,7 +2,7 @@
 
 ### Researcher| Drug Discovery & computational Biology| Postgraduate Biotech Student
 
-I am a researcher and academic professional focused on **Computational Biology** and **Cheminformatics**. Currently, I serve as a Global Teaching Assistant for the **How To Grow Almost Anything (HTGAA)** program.
+I am a researcher and academic professional focused on **Computational Biology** and **Cheminformatics**. Also serving as a Global Teaching Assistant for the **How To Grow Almost Anything (HTGAA)** program.
 
 ---
 
