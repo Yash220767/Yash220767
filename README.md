@@ -20,7 +20,7 @@ I am a researcher and academic professional focused on **Computational Biology**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### 🧬 Bioinformatics & Molecular Modeling
+### 🧬 Bioinformatics
 ![RDKit](https://img.shields.io/badge/RDKit-EF5B25?style=for-the-badge&logo=rdkit&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-30638E?style=for-the-badge&logo=python&logoColor=white)
 ![RasMol](https://img.shields.io/badge/RasMol-7F7F7F?style=for-the-badge&logo=biotech&logoColor=white)
@@ -33,10 +33,9 @@ I am a researcher and academic professional focused on **Computational Biology**
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sawant-4b0b30266/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawantyash22@gmail.com)
-
----
+[![Website](https://img.shields.io/badge/HTGAA-Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pages.htgaa.org/yash-sawant/index.html)
 ---
 
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash220767&show_icons=true&theme=dark)
+![Views](https://komarev.com/ghpvc/?username=Yash220767&color=green&style=flat-square&label=PROFILE+VIEWS)
