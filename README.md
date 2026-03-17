@@ -20,7 +20,7 @@ I am a researcher and academic professional focused on **Computational Biology**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### 🧬 Bioinformatics
+### 🧬 Bioinformatics and Molecular Modelling
 ![RDKit](https://img.shields.io/badge/RDKit-EF5B25?style=for-the-badge&logo=rdkit&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-30638E?style=for-the-badge&logo=python&logoColor=white)
 ![RasMol](https://img.shields.io/badge/RasMol-7F7F7F?style=for-the-badge&logo=biotech&logoColor=white)
