@@ -1,4 +1,4 @@
-# Hello, I'm Yash Sawant 🦥
+# Hello, I'm Yash
 
 ### Researcher| Drug Discovery & computational Biology| Postgraduate Biotech Student
 
