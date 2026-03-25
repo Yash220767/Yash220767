@@ -9,7 +9,7 @@ I am a researcher and academic professional focused on **Computational Biology**
 ## 🔍 About Me
 - 🛠️ **Current Projects:** 
 
--Working on QSAR modeling and molecular oncology (EGFR Tyrosine Kinase Inhibitors)
+-QSAR Modeling of EGFR Tyrosine Kinase Inhibitors (TKIs) in Non-small cell lung carcinoma 
 
 ---
 
