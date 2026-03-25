@@ -8,7 +8,7 @@ I am a researcher and academic professional focused on **Computational Biology**
 
 ## 🔍 About Me
 - 🎓 **Research:** Working on QSAR modeling and molecular oncology (EGFR Tyrosine Kinase Inhibitors).
-- 🛠️ **Current Projects:** Building ML pipeline for chemical dataset cleaning and descriptor analysis.
+- 🛠️ **Current Projects:** Building ML pipeline for chemical dataset and descriptor analysis.
 
 ---
 
