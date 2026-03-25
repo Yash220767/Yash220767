@@ -9,7 +9,7 @@ Focused on **Computational Biology** and **Cheminformatics**. Also serving as a 
 ## 🔍 About Me
 - 🛠️ **Current Projects:** 
 
--QSAR Modeling of EGFR Tyrosine Kinase Inhibitors (TKIs) in Non-small cell lung carcinoma 
+QSAR Modeling of EGFR Tyrosine Kinase Inhibitors (TKIs) in Non-small cell lung carcinoma 
 
 ---
 
