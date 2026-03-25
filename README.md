@@ -32,10 +32,8 @@ I am a researcher and academic professional focused on **Computational Biology**
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Benchling](https://img.shields.io/badge/Benchling-131313?style=for-the-badge&logo=benchling&logoColor=white)
 
-## 🤝 Connect with Me
+## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sawant-4b0b30266/)
 [![Website](https://img.shields.io/badge/HTGAA-Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pages.htgaa.org/yash-sawant/index.html)
 ---
 
-## 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash220767&show_icons=true&theme=dark)
