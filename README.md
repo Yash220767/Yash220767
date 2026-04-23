@@ -1,6 +1,6 @@
 # Hello, I'm Yash
 
-### Researcher| Postgraduate Biotech Student
+### Researcher and Postgraduate Biotech Student
 
 Focused on **Computational Biology** and **Cheminformatics**. Also serving as a Global Teaching Assistant for the **How To Grow Almost Anything (HTGAA)** program.
 
