@@ -1,13 +1,4 @@
-# Hello, I'm Yash
-
-### Researcher and Postgraduate Biotech Student
-
-Focused on **Computational Biology** and **Cheminformatics**. Also serving as a Global Teaching Assistant for the **How To Grow Almost Anything (HTGAA)** program.
-
----
-
-## 🔍 About Me
-- 🛠️ **Current Projects:** 
+ 🛠️ **Current Projects:** 
 
 QSAR Modeling of EGFR Tyrosine Kinase Inhibitors (TKIs) in Non-small cell lung carcinoma 
 
